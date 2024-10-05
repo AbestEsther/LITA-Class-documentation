@@ -1,14 +1,18 @@
 # LITA-Class-documentation
 
-### Project topic: Learning Data Analysis at Incubator hub
+### Project topic: Learning Data Analysis at Incubator hub.
+--------
 
 ### Project overview
-This shows my learning progress in Data Analysis at the Incubator Hub which enable me to learn how to use some tools to clean, analyse,visualise Data
+--------
+This shows my learning progress in Data Analysis at the Incubator Hub which enable me to learn how to use some tools to clean, analyse,visualise Data.
 
 ### Data Sources
+-------
 The primary source of Data is gotten from our Facilitators which they outsourced from kaggle and any other data repository site.
 
 ### Tools used
+------------
 - Microsoft Excel [Download Here](http://www.microsoft.com)
    1. For Data cleaning
    2. for Analysis
@@ -16,3 +20,39 @@ The primary source of Data is gotten from our Facilitators which they outsourced
 - SQL- Structured Query Language for querying Data.
 - Github for Portfolio Building.
 - Power BI- Power Business Intelligence for Data Visualisation.
+
+  ### Data cleaning and preparation
+  -------
+  In the initial phase of the data cleaning and preparation,we perorm the following actions:
+  1. Data loading and inspection
+  2. Handling misssing variable
+  3. Data cleaning and formatting
+     
+  ### Exploratory Data Analysis
+   ----------
+  We use the exploratory data to answer some questions about Data such as:
+    - Which products are top seller?
+    - What are the products on peak sale?
+    - What is the overall sales trend?
+
+   ### Data Analysis
+  -------
+    This is where we include some basic lines of code or queries or even some of the DAX expression used during analysis:
+
+ ```SQL
+  CREATE database LITA_DB
+  ```
+```SQL
+CREATE TABLE Employee (
+staffid varchar (10) not null,
+FirstName varchar (255) NOT NULL,
+SecondName varchar (255),
+Gender varchar (10),
+Date_of_Birth date,
+HireDate datetime,
+primary key (staffid))
+````
+
+```SOL
+SELECT * from Employee
+````
