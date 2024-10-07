@@ -56,7 +56,11 @@ primary key (staffid))
 ```SOL
 SELECT * from Employee
 ````
+
 ### Data Visualisation
 ------
+
+![DATA 2](https://github.com/user-attachments/assets/59537c34-a951-490b-b4c3-7e4312001434)
+
 
 
