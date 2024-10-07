@@ -1,6 +1,24 @@
 # LITA-Class-documentation
 
-### Project topic: Learning Data Analysis at Incubator hub.
+[Project topic](#project-topic)
+
+[Project overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools used](#tools-used)
+
+[Data cleaning and preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
+
+### Project topic: 
+Learning Data Analysis at Incubator hub.
 --------
 
 ### Project overview
@@ -61,6 +79,10 @@ SELECT * from Employee
 ------
 
 ![DATA 2](https://github.com/user-attachments/assets/59537c34-a951-490b-b4c3-7e4312001434)
+
+![DATA](https://github.com/user-attachments/assets/35014e3c-5ed3-4e2c-9d16-ccbf73fd7981)
+
+![EXCEL](https://github.com/user-attachments/assets/006ea6fa-3c55-4bc3-8b83-14dfacd0863f)
 
 
 
